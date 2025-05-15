@@ -6,9 +6,9 @@ import requests
 import os
 
 # 书写你的cookie
-cookie = 'JSESSIONID=02966A21104F0F675BB3FD7DAB82A1D0; route=f6e54f9519cad90660e0237650d0f980'
+cookie = 'JSESSIONID=134A945EF52B350782738147A357F36D'
 # 书写教学综合信息服务平台的域名，我们学校的是http://jw.xxxxx.edu.cn:8111
-domain = 'http://jw.xxx.edu.cn:8111/'
+domain = 'https://newjwxt-443.webvpn.zust.edu.cn/'
 
 
 try:
